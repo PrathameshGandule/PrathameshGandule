@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrathameshGandule
 - 👀 I’m interested in Backend Web Development
 - 🌱 I’m currently learning Javascript, DSA
-- 💞️ I’m looking to collaborate on DSA
+- 💞️ I’m looking to collaborate on (don't know yet)
 - 📫 How to reach me
   - My Twitter : https://x.com/CoderPrathamesh
   - My LinkedIn : https://www.linkedin.com/in/prathamesh-gandule-417671258/
