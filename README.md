@@ -6,7 +6,7 @@
   - My Twitter : https://x.com/CoderPrathamesh
   - My LinkedIn : https://www.linkedin.com/in/prathamesh-gandule-417671258/
 - Would love to contribute to Projects related to backend development
-- My Resume: - ![Resume](https://drive.google.com/file/d/1wqGA2V8VZgC4uMAOdbUWZ4gB_-lb_WRJ/view?usp=drive_link)
+- My Resume: - **[RESUME](https://drive.google.com/file/d/1wqGA2V8VZgC4uMAOdbUWZ4gB_-lb_WRJ/view?usp=drive_link)**
 
 <!---
 PrathameshGandule/PrathameshGandule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
