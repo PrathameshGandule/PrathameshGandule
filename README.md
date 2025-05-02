@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning GoLang, TypeScript, PostGreSql
 - 💞️ I’m looking forward to participate in hackathons and contributing to open source
 - 💡 I'm currently working on an inhouse project for my college [DYPDPU](https://dypdpu.edu.in)
-- My Resume: - **[RESUME](https://drive.google.com/file/d/196u86_QluKl5AYjSRyMGj4Bz8mT-edXi/view?usp=drive_link)**
+- My Resume: - **[RESUME](https://drive.google.com/file/d/13hoYfGuzOe6UN65_cUS2gYCsUkCJHBZO/view?usp=drive_link)**
 
 
 ## 🌐 Socials:
