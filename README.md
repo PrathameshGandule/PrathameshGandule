@@ -1,8 +1,10 @@
 # 💫 About Me:
 - 👋 Hi, I’m @PrathameshGandule
-- 👀 I’m a backend developer and 2X hackthon winner
+- 🐧 I'm a linux enthusiast 
+- 👀 I’m a backend developer and 2X hackathon winner
 - 🌱 I’m currently learning GoLang, TypeScript, PostGreSql
 - 💞️ I’m looking forward to participate in hackathons and contributing to open source
+- 💻: My recent contribution in @microsoft/tsgo :- [GITHUB ISSUE](https://github.com/microsoft/typescript-go/issues/522)
 - 💡 I'm currently working on an inhouse project for my college [DYPDPU](https://dypdpu.edu.in)
 - My Resume: - **[RESUME](https://drive.google.com/file/d/13hoYfGuzOe6UN65_cUS2gYCsUkCJHBZO/view?usp=drive_link)**
 
