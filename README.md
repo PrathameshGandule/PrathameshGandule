@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I’m Prathamesh Gandule<br>I’m a Product Engineer at [Infosys Finacle](https://www.finacle.com/)<br>I am a Comp Engg. passout at [DYPIT](https://engg.dypvp.edu.in/) 2026<br>I’m currently learning how to make a computer with [Nand2Tetris](https://www.nand2tetris.org/)<br>I like to read about Backend, Networking, OS, databases and internal workings of computer<br>
+Hi, I'm Prathamesh Gandule 👋
+
+- Product Engineer at [Infosys Finacle](https://www.finacle.com/)
+- Currently building a computer from first principles with [Nand2Tetris](https://www.nand2tetris.org/)
+- Interested in backend engineering, distributed systems, networking, operating systems, databases, and computer architecture
+- I enjoy reading RFCs, building side projects, and understanding how things work under the hood.
 
 
 ## 🌐 Socials:
