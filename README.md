@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Prathamesh Gandule<br>I’m a backend developer and 2X hackathon winner<br>I am a 4th Year Comp Engg. student at [DYPIT](https://engg.dypvp.edu.in/)<br>I’m currently learning Network, OS fundamentals with C, on systems level<br>I like to read about Backend, Networking, OS and databases<br>I’m looking forward to participate in hackathons and contributing to open source
+Hi, I’m Prathamesh Gandule<br>I’m a Product Engineer at [Infosys Finacle](https://www.finacle.com/)<br>I am a Comp Engg. passout at [DYPIT](https://engg.dypvp.edu.in/) 2026<br>I’m currently learning how to make a computer with [Nand2Tetris](https://www.nand2tetris.org/)<br>I like to read about Backend, Networking, OS, databases and internal workings of computer<br>
 
 
 ## 🌐 Socials:
