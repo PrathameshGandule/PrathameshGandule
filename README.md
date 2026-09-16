@@ -3,8 +3,8 @@ Hi, I'm Prathamesh Gandule 👋
 
 - Product Engineer at [Infosys Finacle](https://www.finacle.com/)
 - Currently building a computer from first principles with [Nand2Tetris](https://www.nand2tetris.org/)
-- Interested in backend engineering, distributed systems, networking, operating systems, databases, and computer architecture
-- I enjoy reading RFCs, building side projects, and understanding how things work under the hood.
+- Interested in backend engineering, distributed systems, networking, operating systems, systems programming, and computer architecture
+- I enjoy reading technical books/blogs, building side projects, and understanding how things work under the hood.
 
 
 ## 🌐 Socials:
